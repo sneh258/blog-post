@@ -9,7 +9,7 @@ export default function Header() {
       </div>
       <img
         className="headerImg"
-        src="https://images.unsplash.com/photo-1591259622709-bdb033b4be2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvdGVzdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+        src="https://atmos.earth/wp-content/uploads/2020/07/black-lives-matter-protest-fists-1280x853.jpg"
         alt="protest"
       />
     </div>
